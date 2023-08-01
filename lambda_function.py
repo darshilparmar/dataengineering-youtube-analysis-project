@@ -3,7 +3,6 @@ import pandas as pd
 import urllib.parse
 import os
 
-# Temporary hard-coded AWS Settings; i.e. to be set as OS variable in Lambda
 os_input_s3_cleansed_layer = os.environ['s3_cleansed_layer']
 os_input_glue_catalog_db_name = os.environ['glue_catalog_db_name']
 os_input_glue_catalog_table_name = os.environ['glue_catalog_table_name']
