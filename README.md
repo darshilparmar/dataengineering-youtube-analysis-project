@@ -32,3 +32,16 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
 
 https://youtu.be/yZKJFKu49Dk
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
